@@ -1,0 +1,22 @@
+Tuesday
+Time spent on learning vpython - 1.5 hours
+Time spent on orbit problem -1 hour(half an hour debugging)
+Time spent on storyboard- 1 hour
+Time spent on competetive Analysis - 2 hours
+
+
+11/23/13
+Time spent on turning planets into classes-1 Hour
+Time spent on orbit generalization- 1 hour
+Time spent on click and drag solving/learning- 1 hour
+
+11/24/13
+Time spent on debugging work of saturday-1 Hour
+Time spent on learning file system/dialog windows- 2 hours
+
+11/25/13
+Time spent on implementing file/save system- 4 Hours
+
+Saturday-9Hours
+Sunday-9Hours
+Tuesday-8Hours

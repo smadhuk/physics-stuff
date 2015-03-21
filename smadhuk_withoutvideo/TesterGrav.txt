@@ -1,0 +1,4 @@
+"Sun",(2,3,4),2e30,40000000000,"yellow","center"
+"Mercury",(5.7e10,0,0),328e21,2.4e9,"red","planet"
+"Earth",(1.5e11,1e11,2e11),6e24,6e9,"blue","planet"
+"Mars",(2.3e11,0,0),639e21,3.4e9,"red","planet"
